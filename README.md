@@ -1,2 +1,2 @@
-# Learn basic concepts in react
+# Learn Basic concept In React.js 
 ✨ All basic concepts of React.js.
